@@ -1,5 +1,6 @@
 /**
- * In this class, it has three reasons to change (pay, report hour or save)
+ * The Employee class handle many different things.
+ * It has three reasons to change (pay, report hour or save). T
  */
 
 import assert from 'assert';

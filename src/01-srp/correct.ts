@@ -1,5 +1,6 @@
 /**
- * Now, we have a class to each feature
+ * Now, the Employee class only represent an employee
+ * and the others features were extracted to own class
  */
 
 import assert from 'assert';
