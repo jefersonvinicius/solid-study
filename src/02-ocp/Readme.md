@@ -1,0 +1,1 @@
+The OCP principle makes a lot sense in architectural aspects. A good design has components that work together and is easy to extend them and has its dependencies in a hierarchy that avoid the coupling
